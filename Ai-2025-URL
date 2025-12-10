@@ -3,7 +3,7 @@ chat.openai.com
 claude.ai
 gemini.google.com
 copilot.microsoft.com
-www.anthropic.com
+anthropic.com
 you.com
 www.perplexity.ai
 poe.com
@@ -15,12 +15,11 @@ copy.ai
 rytr.me
 writesonic.com
 #GENERACIÓN DE IMÁGENES Y ARTE
-www.midjourney.com
+midjourney.com
 dreamstudio.ai
 stability.ai
-openai.com/dall-e-3
+openai.com
 leonardo.ai
-www.bing.com/create
 clipdrop.co
 runwayml.com
 www.craiyon.com
@@ -34,14 +33,14 @@ seaart.ai
 tensor.art
 #GENERACIÓN DE VÍDEO
 runwayml.com
-www.pika.art
-www.heygen.com
+pika.art
+heygen.com
 synthesia.io
 invideo.io/ai
 pictory.ai
 lumen5.com
 veed.io
-kapwing.com/ai-video
+kapwing.com
 elai.io
 deepbrain.io
 colossyan.com
@@ -55,7 +54,7 @@ voice.ai
 suno.com
 soundraw.io
 boomy.com
-www.aiva.ai
+aiva.ai
 ampermusic.com
 mubert.com
 voicebooking.com
@@ -65,7 +64,7 @@ notion.ai
 gamma.app
 tome.app
 beautiful.ai
-www.jenni.ai
+jenni.ai
 otter.ai
 fireflies.ai
 wordtune.com
@@ -75,20 +74,20 @@ proposalgenie.com
 beaconstac.com/ai
 #ASISTENTES DE CÓDIGO
 github.com/features/copilot
-www.tabnine.com
-www.codium.ai
-www.sourcery.ai
+tabnine.com
+codium.ai
+sourcery.ai
 codeium.com
 replit.com/site/ai
 mutable.ai
-www.phind.com
-www.codecomplete.ai
+phind.com
+codecomplete.ai
 codewhisperer.amazon.com
 #PLATAFORMAS DE MODELOS Y DESARROLLO
 huggingface.co
 replicate.com
 colab.research.google.com
-www.kaggle.com
+kaggle.com
 modal.com
 banana.dev
 together.ai
@@ -99,7 +98,7 @@ scale.com
 labelbox.com
 wandb.ai
 #IA PARA NEGOCIOS Y MARKETING
-www.hubspot.com/ai
+hubspot.com/ai
 www.salesforce.com/ai
 chatfuel.com
 manychat.com
