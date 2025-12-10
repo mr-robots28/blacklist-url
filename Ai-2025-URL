@@ -13,7 +13,6 @@ jasper.ai
 copy.ai
 rytr.me
 writesonic.com
-#GENERACIÓN DE IMÁGENES Y ARTE
 midjourney.com
 dreamstudio.ai
 stability.ai
@@ -42,7 +41,6 @@ kapwing.com
 elai.io
 deepbrain.io
 colossyan.com
-#GENERACIÓN DE AUDIO Y MÚSICA
 elevenlabs.io
 murf.ai
 play.ht
@@ -57,7 +55,6 @@ ampermusic.com
 mubert.com
 voicebooking.com
 podcastle.ai
-#HERRAMIENTAS DE PRODUCTIVIDAD
 notion.ai
 gamma.app
 tome.app
@@ -70,7 +67,6 @@ quillbot.com
 grammarly.com
 proposalgenie.com
 beaconstac.com/ai
-#ASISTENTES DE CÓDIGO
 github.com/features/copilot
 tabnine.com
 codium.ai
@@ -81,7 +77,6 @@ mutable.ai
 phind.com
 codecomplete.ai
 codewhisperer.amazon.com
-#PLATAFORMAS DE MODELOS Y DESARROLLO
 huggingface.co
 replicate.com
 colab.research.google.com
@@ -95,7 +90,6 @@ azure.microsoft.com/es-es/products/machine-learning
 scale.com
 labelbox.com
 wandb.ai
-#IA PARA NEGOCIOS Y MARKETING
 hubspot.com/ai
 salesforce.com/ai
 chatfuel.com
@@ -109,7 +103,6 @@ writesonic.com
 anyword.com
 simpleshow.com
 pictory.ai
-#EDUCACIÓN Y APRENDIZAJE
 khanacademy.org
 quizlet.com
 duolingo.com
@@ -121,7 +114,6 @@ carnegielearning.com
 alex.co
 eduaide.ai
 teacherbot.io
-#SALUD Y BIENESTAR
 babylonhealth.com
 ada.com
 buoyhealth.com
@@ -131,7 +123,6 @@ ginger.com
 lyrahealth.com
 springhealth.com
 happify.com
-#ROBÓTICA Y AUTOMATIZACIÓN
 bostondynamics.com
 uipath.com
 automationanywhere.com
@@ -141,48 +132,41 @@ ibm.com/automation
 #IA EN JUEGOS
 openai.com/five
 deepmind.com
-unity.com/machine-learning
+unity.com
 unrealengine.com
 hero.ai
 latitude.io
-#HERRAMIENTAS DE DISEÑO
-adobe.com/sensei
-figma.com/ai
-canva.com/magic-design
+figma.com
+canva.com
 khroma.co
 uizard.io
 fronty.com
 designs.ai
 looka.com
-#MOTORES DE BÚSQUEDA INTELIGENTES
 you.com
 perplexity.ai
 andisearch.com
 phind.com
 exa.ai
 metaphor.systems
-#ASISTENTES PERSONALES
 myaiprivate.com
 pi.ai
 inflection.ai
 human.x.ai
 cursor.sh
 mem.ai
-#HERRAMIENTAS LEGALES
 do-not-pay.com
 latch.com
 lexcheck.com
 kirasystems.com
 rossintelligence.com
 legalrobot.com
-#FINANZAS Y TRADING
 kensho.com
 ayasdi.com
 sentient.ai
 numerai.com
 algoriz.com
 alpha-sense.com
-#RECURSOS ACADÉMICOS E INVESTIGACIÓN
 arxiv.org
 paperswithcode.com
 semanticscholar.org
@@ -190,12 +174,10 @@ connectivedx.com
 scite.ai
 iris.ai
 consensus.app
-#COMPUTACIÓN CREATIVA
 nvidia.com/research
 deepmind.com
 ai.meta.com
 research.google
-#HERRAMIENTAS ESPECIALIZADAS
 brandmark.io
 namelix.com
 tldrthis.com
@@ -203,7 +185,6 @@ summarize.tech
 formularizer.com
 chatpdf.com
 askyourpdf.com
-#COMUNIDADES Y DIRECTORIOS
 futurepedia.io
 theresanaiforthat.com
 aitoolkit.org
